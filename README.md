@@ -12,3 +12,6 @@ https://github.com/simplyi/core
 https://github.com/simplyi/PaymentsService
 https://github.com/simplyi/ApiGateway
 https://github.com/simplyi/DiscoveryService
+
+Lombok error in STS IDE
+https://stackoverflow.com/questions/11803948/lombok-is-not-generating-getter-and-setter/45217235#45217235
